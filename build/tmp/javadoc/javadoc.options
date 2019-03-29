@@ -1,6 +1,0 @@
--classpath 'C:\\Users\\RUMIA AUDAX\\Desktop\\temperatura\\build\\classes\\java\\main;C:\\Users\\RUMIA AUDAX\\Desktop\\temperatura\\build\\resources\\main'
--d 'C:\\Users\\RUMIA AUDAX\\Desktop\\temperatura\\build\\docs\\javadoc'
--doctitle 'temperatura 1.0-SNAPSHOT API'
--quiet 
--windowtitle 'temperatura 1.0-SNAPSHOT API'
-'C:\\Users\\RUMIA AUDAX\\Desktop\\temperatura\\src\\main\\java\\TemperatureConverter.java'
